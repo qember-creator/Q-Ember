@@ -119,22 +119,3 @@ The following matrix outlines how capsule-based trust integrity compares to lega
 | OAuth / Auth0                 | Session federation                | Session unlock only after capsule-grade proof    |
 ---
 
-## Capsule Gravity Map: Strategic Positioning
-
-The following map visualizes Q-EMBER's innovation depth and horizontal applicability across the trust infrastructure space. Compared with legacy and incumbent systems, it illustrates where capsule-based integrity fundamentally reshapes interaction trust:
-
-⇧ Innovation Gravity ⇧  
-        │
-        │                                     
-   High │                     🌀 Q-EMBER
-        │                    (Physics-native trust, anti-bot, malware sensing, entropy auth)
-        │
-        │          ◯ WebAuthn / Passkey     ◯ Cloudflare Zero Trust
-        │
-        │      ◯ Akamai BotDefend           ◯ Auth0 / OAuth
-        │
-        │   ◯ Google reCAPTCHA        ◯ Antivirus / EDR (CrowdStrike)
-        │
-        │_______________________________________________________________
-                     Narrow                          Broad 
-                  (Use Case Reach →)
