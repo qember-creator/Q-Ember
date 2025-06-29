@@ -76,3 +76,31 @@ Designed for synthetic minds that **mutate, forget, and self-orchestrate**.
 ---
 
 ## 📚 Directory Overview
+
+- /src: Core Q-EMBER engine modules
+- /docs: Whitepaper, specs, capsule structure reference
+- /examples: Sample integrations and capsule resolutions
+- /tests: Unit, fuzz, and red-team simulation tests
+
+---
+
+## Annex A – Emerging Applications
+
+The capsule resolution framework introduced herein is designed for sealed, verifiable interactions rooted in local environmental integrity. While this paper confines itself to core capsule ignition and trust verification, early testing and theoretical modeling suggest the architecture supports wider domains, including:
+
+- **Adversarial Behavior Detection**  
+  Capsule consistency anomalies may signal synthetic input, spoofing, or automation at a depth below user agent or IP-level detection.
+
+- **Passive Malware Forensics**  
+  Integrity loss during capsule ignition may reflect low-level tampering or unauthorized entropy interference, even in air-gapped systems.
+
+- **Capsule-Gated Identity and Session Flows**  
+  Resolution signatures may enable session bootstrap, access gating, and contextual authentication—eliminating reliance on passwords or persistent tokens.
+
+- **Bot-Resistant Interaction Filtering**  
+  Trust resolution curves appear robust against large-scale behavioral mimicry across device farms or synthetic browser stacks.
+
+- **Resolution-Based Economic Mechanisms**  
+  Scoped capsules and decay-tied CRAE outputs may inform gated access, dynamic pricing, or tokenized event admission.
+
+> *This annex is not intended to be exhaustive or speculative. It reflects observable behavior of early implementations and highlights directions for responsible development and further study.*
